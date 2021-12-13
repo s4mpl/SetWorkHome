@@ -1,0 +1,15 @@
+name: SetWorkHome
+version: 1.0
+author: TareqAlyousef
+main: me.tareqalyousef.setworkhome.SetWorkHome
+description: Allows you to teleport to both a home and work location
+
+commands:
+  sethome:
+    description: Set your home location.
+  home:
+    description: Teleport to your home location.
+  setwork:
+    description: Set your work location.
+  work:
+    description: Teleport to your work location.
